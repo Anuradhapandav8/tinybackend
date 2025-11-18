@@ -1,0 +1,2 @@
+PORT = 8080
+MONGODB_URL = mongodb+srv://anurag11:anurag11@icp8-cluster.cwixlsr.mongodb.net/
